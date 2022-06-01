@@ -14,7 +14,7 @@ public class AviaSalesTest {
         driver = new ChromeDriver();
         driver.get(System.getProperty("url"));
         WebElement inpDestination = driver.findElement(By.xpath("//input[@id='destination']"));
-        inpDestination.sendKeys("Omsk");
+        inpDestination.sendKeys("Talin");
         WebElement btnChangeDirection = driver.findElement(By.xpath("//div[@class='swap-places']"));
         btnChangeDirection.click();
         driver.quit();
