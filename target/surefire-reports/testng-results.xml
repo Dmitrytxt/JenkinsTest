@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-01T14:28:00 MSK" name="AviaSalesTest" finished-at="2022-06-01T14:28:07 MSK" duration-ms="6955">
+    <groups>
+    </groups>
+    <test started-at="2022-06-01T14:28:00 MSK" name="Command line test" finished-at="2022-06-01T14:28:07 MSK" duration-ms="6955">
+      <class name="AviaSalesTest">
+        <test-method signature="test()[pri:0, instance:AviaSalesTest@ba8d91c]" started-at="2022-06-01T14:28:00 MSK" name="test" finished-at="2022-06-01T14:28:07 MSK" duration-ms="6923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- AviaSalesTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- AviaSalesTest -->
+</testng-results>
